@@ -7,7 +7,7 @@
 [![Code Climate Issues][code-climate-issues-image]][code-climate-issues-url]
 
 This is a TensorFlow implementation based on my "[Graph-based Image
-Classification](https://github.com/rusty1s/deep-learning/tree/master/thesis)"
+Classification](https://github.com/rusty1s/deep-learning-on-graphs/tree/master/masterthesis)"
 master thesis.
 
 ## Requirements
